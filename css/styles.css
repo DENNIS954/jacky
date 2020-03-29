@@ -1,0 +1,35 @@
+.bg-navy {
+    background: linear-gradient(-60deg, #041d8b8c, #bb8b0952,#580318b6);
+}
+.min-vh-80 {
+    min-height: 80vh;
+}
+.landing {
+    background: url("../jacky.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.jumbotron {
+    font-family: 'Nosifer', cursive;
+    color: green;
+    margin-top: 510px;
+}
+#continue {
+    background: rgba(0, 2.1, 0, 3.0);
+
+}
+h2 {
+    color: red;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Bungee', cursive;
+}
+#eertert {
+    background: rgba(0, 0, 0, 0.6);
+}
+#jack {
+    background-image: url(../kim.jpg);
+    background-size: cover;
+
+}
